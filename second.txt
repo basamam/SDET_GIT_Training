@@ -1,0 +1,2 @@
+this is my second text file
+theis file will be added git repository
