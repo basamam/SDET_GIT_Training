@@ -1,0 +1,4 @@
+this is the third text file, created from remote repository.
+line -1
+line -2
+line -3
