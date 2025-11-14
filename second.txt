@@ -1,2 +1,3 @@
 this is my second text file
 theis file will be added git repository
+new line is added to the second text file
